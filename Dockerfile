@@ -12,4 +12,4 @@ WORKDIR /opt/app-root/src
 
 ADD ./bin
 
-CMD ./bin/run.sh
+CMD ./bin/start.sh
